@@ -1,4 +1,5 @@
 ***The following README is a lazy copy and paste of the AI results without any modification.***
+
 ***以下README偷大懒直接复制黏贴AI的结果，没有做任何的修改***
 
 ***RainbowQR - Advanced Color-Calibrated QR Code Generator***
