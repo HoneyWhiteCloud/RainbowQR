@@ -1,5 +1,4 @@
-English Version
-RainbowQR - Advanced Color-Calibrated QR Code Generator
+***RainbowQR - Advanced Color-Calibrated QR Code Generator***
 RainbowQR is an innovative color-based encoding system that revolutionizes traditional QR codes by utilizing RGB color channels for information storage. Unlike conventional black-and-white QR codes, this system leverages multi-level color gradation schemes, dramatically increasing data density while maintaining visual appeal.
 
 Development Milestones
@@ -31,9 +30,9 @@ NumPy for numerical computations and color matrix operations
 Tkinter for cross-platform GUI interface
 Perfect for applications requiring high-density data storage, artistic QR codes, or scenarios where color-based encoding provides advantages over traditional monochrome systems.
 
-中文版本
-彩虹码 RainbowQR - 先进的颜色校准二维码生成器
-**彩虹码（RainbowQR）**是一个创新的基于颜色编码系统，通过利用RGB颜色通道进行信息存储，革命性地改进了传统二维码技术。与传统的黑白二维码不同，该系统采用多级色阶方案，在保持视觉美观的同时，大幅提升了数据密度。
+
+***彩虹码 RainbowQR - 先进的颜色校准二维码生成器***
+彩虹码（RainbowQR）是一个创新的基于颜色编码系统，通过利用RGB颜色通道进行信息存储，革命性地改进了传统二维码技术。与传统的黑白二维码不同，该系统采用多级色阶方案，在保持视觉美观的同时，大幅提升了数据密度。
 
 开发里程碑
 项目经历了五个主要迭代版本，每个版本都引入了重要的功能增强：
