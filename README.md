@@ -1,3 +1,6 @@
+***The following README is a lazy copy and paste of the AI results without any modification.***
+***以下README偷大懒直接复制黏贴AI的结果，没有做任何的修改***
+
 ***RainbowQR - Advanced Color-Calibrated QR Code Generator***
 
 RainbowQR is an innovative color-based encoding system that revolutionizes traditional QR codes by utilizing RGB color channels for information storage. Unlike conventional black-and-white QR codes, this system leverages multi-level color gradation schemes, dramatically increasing data density while maintaining visual appeal.
