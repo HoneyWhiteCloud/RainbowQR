@@ -19,6 +19,7 @@ Tkinter 提供跨平台GUI界面
 
 
 
+
 RainbowQR - Advanced Color-Calibrated QR Code Generator
 RainbowQR is an innovative color-based encoding system that revolutionizes traditional QR codes by utilizing RGB color channels for information storage. Unlike conventional black-and-white QR codes, this system leverages an 8-level color gradation scheme across red, green, and blue channels, dramatically increasing data density while maintaining visual appeal.
 
